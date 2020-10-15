@@ -60,12 +60,15 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-Lets talk about odds for a second, of those who believe in postlife, if you do not believe in postlife what are the odds of the bigbang being false? For those who said no to believing in postlife but believe in the bigbang, the odds are 8/15. Now suppose that you do believe in postlife the odds are 88/67. If we had more data, these results would be more significant to make a determination.    
+Lets talk about odds for a second, of those who believe in postlife, if you do not believe in postlife what are the odds of the bigbang being false? For those who said no to believing in postlife but believe in the bigbang, the odds are 8/15. Now suppose that you do believe in postlife the odds are 88/67. If we had more data, these results would be more significant to make a determination. The odds ratio is .408:1.
+
  
 ```{r}
 (8/15)/(88/67)
 ```
-  
+    
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+We are forced to say that we fail to reject the null hypothesis because there is not enough data to show. The probability of getting something like this again is .08% of the time which is also the p- value. 
+
